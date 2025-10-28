@@ -7,14 +7,14 @@
 ## 🧑‍💻 Sobre mim
 - 📍 Alagoa-Grande, PB - Brasil  
 - 🎓 Estudante de **Tecnologia em Sistemas para Internet** no IFPB  
-- 🌱 Aprendendo **HTML, CSS e JavaScript**  
+- 🌱 Aprendendo **HTML, CSS, JavaScript e JAVA**  
 
 ---
 
 ## 🛠️ Tecnologias & Ferramentas
-- 💻 **HTML5** | **CSS3** | **JavaScript (básico)**  
+- 💻 **HTML5** | **CSS3** | **JavaScript (básico) | JAVA (básico)**  
 - 🖥️ Windows  
-- 🛠️ VS Code | Git & GitHub
+- 🛠️ VS Code | Git & GitHub(básico)
 
 ---
 
