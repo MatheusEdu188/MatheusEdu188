@@ -21,7 +21,7 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ## 📊 Linguagens que mais uso
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusEdu188&layout=compact&theme=default)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusEdu188&layout=compact&theme=dark)
 
 ## 📈 Objetivos 2025
 🌐 Melhorar minhas habilidades em programação web  
